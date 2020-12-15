@@ -56,5 +56,8 @@ Followed https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNa
         }
     </Pre>
     
+### Day 02
+1. Added service discovery using Eureka (Netflix OSS) to the services I developed on day 01
+2. Learn't how Hystrix as a Circuit Breaker Proxy can help application to be fault tolerance and resilient from `https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e`
 
  
