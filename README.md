@@ -60,4 +60,7 @@ Followed https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNa
 1. Added service discovery using Eureka (Netflix OSS) to the services I developed on day 01
 2. Learn't how Hystrix as a Circuit Breaker Proxy can help application to be fault tolerance and resilient from `https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e`
 
- 
+### Day 03
+1. Learn't configurations can be maintained for microservices like properties files, YAML files, problems with managed inside the code
+2. Learn't how to create configuration server and manage configurations outside the codebase
+
